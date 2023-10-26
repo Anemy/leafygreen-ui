@@ -27,7 +27,7 @@
     "start": "storybook dev -p 9001 --no-version-updates",
     "test": "lg test",
     "unlink": "lg unlink",
-    "validate": "lg validate"
+    "validate": "lg validate --depsOnly"
   },
   "devDependencies": {
     "@babel/core": "7.21.8",

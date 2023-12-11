@@ -14,6 +14,7 @@ import ArrowUp from './ArrowUp.svg';
 import Beaker from './Beaker.svg';
 import Bell from './Bell.svg';
 import Biometric from './Biometric.svg';
+import Boolean from './Boolean.svg';
 import Building from './Building.svg';
 import Bulb from './Bulb.svg';
 import Calendar from './Calendar.svg';
@@ -63,6 +64,7 @@ import FullScreenExit from './FullScreenExit.svg';
 import Gauge from './Gauge.svg';
 import GlobeAmericas from './GlobeAmericas.svg';
 import GovernmentBuilding from './GovernmentBuilding.svg';
+import GraduationHat from './GraduationHat.svg';
 import Highlight from './Highlight.svg';
 import Home from './Home.svg';
 import Import from './Import.svg';
@@ -118,6 +120,7 @@ import Sparkle from './Sparkle.svg';
 import SplitHorizontal from './SplitHorizontal.svg';
 import SplitVertical from './SplitVertical.svg';
 import Stitch from './Stitch.svg';
+import String from './String.svg';
 import Support from './Support.svg';
 import Sweep from './Sweep.svg';
 import Table from './Table.svg';
@@ -156,6 +159,7 @@ const _glyphs = {
   Beaker,
   Bell,
   Biometric,
+  Boolean,
   Building,
   Bulb,
   Calendar,
@@ -205,6 +209,7 @@ const _glyphs = {
   Gauge,
   GlobeAmericas,
   GovernmentBuilding,
+  GraduationHat,
   Highlight,
   Home,
   Import,
@@ -260,6 +265,7 @@ const _glyphs = {
   SplitHorizontal,
   SplitVertical,
   Stitch,
+  String,
   Support,
   Sweep,
   Table,

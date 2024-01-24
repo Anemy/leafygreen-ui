@@ -1,5 +1,12 @@
 # @leafygreen-ui/date-picker
 
+## 0.1.1
+
+### Patch Changes
+
+- a8b717c7: Modify `DatePickerMenu.stories.tsx` to exclude the current date, as it caused daily chromatic changes.
+- ba76002f: Applies a CSS transition duration of 100ms to enhance the hover and focus styles on calendar cells.
+
 ## 0.1.0
 
 ### Minor Changes
